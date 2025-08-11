@@ -1,0 +1,175 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    margin: 0;
+}
+
+.title{
+    padding-top: 60px;
+    padding-bottom: 18px;
+    display: flex;
+}
+
+.evsu{
+    display: flex;
+    padding-left: 25%;
+}
+
+h4{
+    padding-left: 1%;
+    padding-top: 10px;
+}
+
+h1{
+    padding-left: 11%;
+    color: rgba(0, 0, 0, 0.800);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+    border-collapse: collapse;
+    max-width: 100%;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+tr[class="klase"]:hover{
+    background-color: rgb(75, 188, 75);
+}
+
+th{
+    padding: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.650);
+    background-color: rgba(128, 128, 128, 0.651);
+    text-align: center;
+}
+
+td{
+    padding: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.650);
+}
+
+.schedule{
+    padding-left: 400px;
+}
+
+img{
+    width: 80px;
+    height: 80px;
+}
+
+.enrolled{
+    background-color: rgb(92, 175, 92);
+    padding: 2px;
+    font-size: small;
+    border-radius: 5px;
+    max-width: 100%;
+    color: rgba(255, 255, 255, 0.849);
+    padding-left: 10px;
+    padding-right: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.status{
+    padding: 30px;
+    font-size: large;
+    background-color: white;
+    border-right: none;
+    padding-left: 0%;
+}
+
+.status2{
+    background-color: white;
+    border-left: none;
+    border-right: none;
+}
+
+.status3{
+    background-color: white;
+    border-left: none;
+}
+
+.subjects{
+    font-size: medium;
+    background-color: white;
+    border-right: none;
+    padding-left: 10px;
+}
+
+.rest_day{
+    background-color: rgba(128, 128, 128, 0.651);
+}
+
+.music{
+    padding-left: 30%;
+}
+
+@media (max-width: 1200px) {
+    .title {
+        padding-top: 20px;
+        padding-left: 10px;
+        padding-bottom: 0%;
+    }
+
+    img[src="logo/profile.png"]{
+        width: 95px;
+        height: 100px;
+    }
+
+   img[src="logo/logo.jpg"]{
+        width: 90px;
+        height: 90px;
+        padding-left: 0%;
+   } 
+
+    img[src="video/itachi.gif"]{
+        width: 90px;
+        height: 100px;
+    }
+
+    h1{
+        text-align: center;
+    }
+
+    h4{
+        padding-left: 20px;
+    }
+
+    table {
+        width: 100%;
+        font-size: 13px;
+    }
+
+    .schedule {
+        padding: 5px;
+    }
+
+    .status{
+        padding-left: 15px;
+        padding-top: 10px;
+        padding-bottom: 15px;
+    }
+
+    .enrolled{
+        display: flex;
+        padding-bottom: 8px;
+    }
+
+    .evsu{
+        padding-left: 25px;
+    }
+
+    th{
+        padding: 8px;
+    }
+
+    td{
+        padding: 8px;
+    }
+
+    .music{
+        padding-left: 0px;
+    }
+
+}
