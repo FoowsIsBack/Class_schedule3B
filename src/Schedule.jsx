@@ -67,6 +67,16 @@ function Schedule() {
           </tr>
 
           <tr className="klase">
+            <td>IT 353</td>
+            <td>3B</td>
+            <td>Data Mining and Analytics</td>
+            <td>Monday</td>
+            <td>5:30PM - 8:30PM</td>
+            <td>IT Room 4</td>
+            <td>BERTULFO, EDWARD B.</td>
+          </tr>
+
+          <tr className="klase">
             <td>CCNA 313</td>
             <td>3B</td>
             <td>Scaling Networks</td>
@@ -84,6 +94,16 @@ function Schedule() {
             <td>9:00AM - 12:00NN</td>
             <td>IT Room 1</td>
             <td>BERTULFO, EDWARD B.</td>
+          </tr>
+
+          <tr className="klase">
+            <td>IT 373A</td>
+            <td>3B</td>
+            <td>Event-Driven Programming</td>
+            <td>Tuesday</td>
+            <td>3:00PM - 5:00PM</td>
+            <td>IT Room 4</td>
+            <td>MIRO, POL A.</td>
           </tr>
 
           <tr className="klase">
@@ -127,8 +147,19 @@ function Schedule() {
           </tr>
 
           <tr className="klase">
-            <td>IT 353A</td>
-            <td>3B</td>
+            <td></td>
+            <td></td>
+            <td>-- Lab schedule --</td>
+            <td>Thursday</td>
+            <td>1:00PM - 4:00PM	</td>
+            <td>IT Room 2</td>
+            <td>MIRO, POL A.</td>
+          </tr>
+
+
+          <tr className="klase">
+            <td></td>
+            <td></td>
             <td>-- Lab schedule --</td>
             <td>Thursday</td>
             <td>5:30PM - 8:30PM</td>
