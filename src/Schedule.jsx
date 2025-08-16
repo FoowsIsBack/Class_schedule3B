@@ -86,6 +86,16 @@ function Schedule() {
             <td>BERTULFO, EDWARD B.</td>
           </tr>
 
+          <tr className="klase">
+            <td>IT 333</td>
+            <td>3B</td>
+            <td>Systems Analysis and Design</td>
+            <td>Tuesday</td>
+            <td>5:30PM - 8:30PM</td>
+            <td>IT Room 5</td>
+            <td>PERANTE, WILFERD JUDE A.</td>
+          </tr>
+
           <tr>
             <td className="rest_day"><b>WEDNESDAY</b></td>
             <td className="rest_day"><b>REST DAY</b></td>
