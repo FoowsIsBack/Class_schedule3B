@@ -4,7 +4,7 @@ body{
 }
 
 .title{
-    padding-top: 60px;
+    padding-top: 20px;
     padding-bottom: 18px;
     display: flex;
 }
@@ -172,6 +172,3 @@ img{
     }
 
 }
-
-
-
