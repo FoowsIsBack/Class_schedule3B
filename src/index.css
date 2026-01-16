@@ -1,5 +1,5 @@
-body{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+body{   
+    font-family: sans-serif;
     background-color: white;
 }
 
@@ -11,7 +11,7 @@ body{
 
 .evsu{
     display: flex;
-    padding-left: 26%;
+    margin-left: 30%;
 }
 
 h4{
@@ -30,7 +30,9 @@ table{
     max-width: 100%;
     border-radius: 5px;
     overflow: hidden;
+    margin-left: -110px;
 }
+
 
 tr[class="klase"]:hover{
     background-color: rgb(75, 188, 75);
@@ -43,9 +45,14 @@ th{
     text-align: center;
 }
 
+.head{
+    text-transform: uppercase;
+}
+
 td{
     padding: 10px;
     border: 2px solid rgba(0, 0, 0, 0.650);
+    width: 300px;
 }
 
 .schedule{
@@ -94,6 +101,7 @@ img{
     background-color: white;
     border-right: none;
     padding-left: 10px;
+    white-space: nowrap;
 }
 
 .rest_day{
@@ -172,6 +180,3 @@ img{
     }
 
 }
-
-
-
