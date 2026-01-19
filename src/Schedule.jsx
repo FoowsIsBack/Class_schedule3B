@@ -96,6 +96,16 @@ function Schedule() {
           </tr>
 
           <tr className="klase">
+            <td>IT 323</td>
+            <td>3B</td>
+            <td>Software Engineering</td>
+            <td>Wednesday</td>
+            <td>10:30PM - 12:00PM</td>
+            <td>IT Room 5</td>
+            <td>MORPOS, JOSEPH JAYMEL S.</td>
+          </tr>
+
+          <tr className="klase">
             <td>CCNA 323</td>
             <td>3B</td>
             <td>Connecting Networks <br /> <strong>(Lab Schedule)</strong></td>
@@ -103,6 +113,16 @@ function Schedule() {
             <td>1:00PM - 4:00PM</td>
             <td>IT Room 1</td>
             <td>BERTULFO, EDWARD B.</td>
+          </tr>
+
+          <tr className="klase">
+            <td>IT 343A</td>
+            <td>3B</td>
+            <td>IT Electives</td>
+            <td>Wednesday</td>
+            <td>7:00PM - 8:30PM</td>
+            <td>IT Room 5</td>
+            <td>MORPOS, JOSEPH JAYMEL S.</td>
           </tr>
 
           <tr className="klase">
