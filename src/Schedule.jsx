@@ -100,7 +100,7 @@ function Schedule() {
             <td>3B</td>
             <td>Software Engineering</td>
             <td>Wednesday</td>
-            <td>10:30PM - 12:00PM</td>
+            <td>10:30AM - 12:00NN</td>
             <td>IT Room 5</td>
             <td>MORPOS, JOSEPH JAYMEL S.</td>
           </tr>
@@ -239,3 +239,4 @@ function Schedule() {
 }
 
 export default Schedule;
+
