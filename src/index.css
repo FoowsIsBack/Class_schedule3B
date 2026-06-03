@@ -104,6 +104,12 @@ img{
     padding-left: 33%;
 }
 
+.finish_sub{
+    background-color: rgb(76, 92, 76);
+    text-decoration: line-through;
+}
+
+
 @media (max-width: 1200px) {
     .title {
         padding-top: 20px;

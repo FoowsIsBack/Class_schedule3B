@@ -45,7 +45,7 @@ function Schedule() {
             <th className="head">Professor</th>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 323</td>
             <td>3B</td>
             <td>Software Engineering</td>
@@ -55,7 +55,7 @@ function Schedule() {
             <td>MORPOS, JOSEPH JAYMEL S.</td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 343</td>
             <td>3B</td>
             <td>Multimedia Systems <br /> <strong>(Lab Schedule)</strong></td>
@@ -65,7 +65,7 @@ function Schedule() {
             <td>MIRO, POL A.</td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 343A</td>
             <td>3B</td>
             <td>IT Electives</td>
@@ -75,7 +75,7 @@ function Schedule() {
             <td>MORPOS, JOSEPH JAYMEL S.</td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 363A</td>
             <td>3B</td>
             <td>Application Development and Emerging Technologies</td>
@@ -85,7 +85,7 @@ function Schedule() {
             <td>LIGUTAN, DANIEL V.</td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 383A</td>
             <td>3B</td>
             <td>Systems Integration & Architecture 2 <br /> <strong>(Lab Schedule)</strong></td>
@@ -95,7 +95,7 @@ function Schedule() {
             <td>ASEO, MARC FRITZ Y.</td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 323</td>
             <td>3B</td>
             <td>Software Engineering</td>
@@ -105,7 +105,7 @@ function Schedule() {
             <td>MORPOS, JOSEPH JAYMEL S.</td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>CCNA 323</td>
             <td>3B</td>
             <td>Connecting Networks <br /> <strong>(Lab Schedule)</strong></td>
@@ -115,7 +115,7 @@ function Schedule() {
             <td>BERTULFO, EDWARD B.</td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 343A</td>
             <td>3B</td>
             <td>IT Electives</td>
@@ -135,7 +135,7 @@ function Schedule() {
             <td>MIRO, POL A.</td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 383</td>
             <td>3B</td>
             <td>Integrative Programming and Technologies 2 <br /> <strong>(Lab Schedule)</strong></td>
@@ -145,7 +145,7 @@ function Schedule() {
             <td>ASEO, MARC FRITZ Y.</td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 363A</td>
             <td>3B</td>
             <td>Application Development and Emerging Technologies <br /> <strong>(Lab Schedule)</strong></td>
@@ -165,7 +165,7 @@ function Schedule() {
             <td className="rest_day"><b>REST DAY</b></td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 343</td>
             <td>3B</td>
             <td>Multimedia Systems</td>
@@ -175,7 +175,7 @@ function Schedule() {
             <td>MIRO, POL A.</td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>CCNA 323</td>
             <td>3B</td>
             <td>Connecting Networks</td>
@@ -185,7 +185,7 @@ function Schedule() {
             <td>BERTULFO, EDWARD B.</td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 383</td>
             <td>3B</td>
             <td>Integrative Programming and Technologies 2</td>
@@ -196,7 +196,7 @@ function Schedule() {
           </tr>
 
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 363</td>
             <td>3B</td>
             <td>Information Assurance and Security 1</td>
@@ -206,7 +206,7 @@ function Schedule() {
             <td>MIRO, POL A.</td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 383A</td>
             <td>3B</td>
             <td>Systems Integration and Architecture 2</td>
