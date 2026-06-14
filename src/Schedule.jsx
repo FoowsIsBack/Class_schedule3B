@@ -125,7 +125,7 @@ function Schedule() {
             <td>MORPOS, JOSEPH JAYMEL S.</td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 363</td>
             <td>3B</td>
             <td>Information Assurance & Security 1 <br /> <strong>(Lab Schedule)</strong></td>
