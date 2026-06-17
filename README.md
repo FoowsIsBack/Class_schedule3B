@@ -1,3 +1,3 @@
 # Photo
-<img width="1142" height="897" alt="image" src="https://github.com/user-attachments/assets/b8f9b502-879e-4f2a-87e6-633402db939c" />
+<img width="1547" height="844" alt="image" src="https://github.com/user-attachments/assets/64cdc83b-6807-4c41-ab23-29e043867ec6" />
 Link - https://schedule3b.vercel.app/
