@@ -3,14 +3,14 @@ function Schedule() {
     <div className="schedule">
       <div className="title">
         <a href="https://www.facebook.com/jhinbangcoyo" target="_blank" rel="noreferrer">
-          <img src="logo/profile.png" alt="Profile"/>
+          <img src="/logo/profile.png" alt="Profile"/>
         </a>
         <h4>Bangcoyo, Kiryll Dave U.</h4>
         <img src="video/itachi.gif" alt="Itachi"/>
         <h1>CLASS SCHEDULE</h1>
         <div className="evsu">
           <a href="https://www.facebook.com/myEVSU.ormoc" target="_blank" rel="noreferrer">
-            <img src="logo/logo.jpg" alt="EVSU Logo"/>
+            <img src="/logo/logo.jpg" alt="EVSU Logo"/>
           </a>
         </div>
       </div>
@@ -49,52 +49,62 @@ function Schedule() {
 
           <tr className="klase">
             <td>IT 303</td>
-            <td>3C</td>
+            <td>3B</td>
             <td>Information Assurance and Security 2 <br /> <strong>(Lab Schedule)</strong></td>
             <td>Monday</td>
-            <td>9:00AM - 12:00NN</td>
-            <td>IT Room 3</td>
-            <td>PERANTE, WILFERD JUDE A.</td>
+            <td>1:00 PM - 4:00 PM</td>
+            <td>IT Room 2</td>
+            <td>BERTULFO, EDWARD B.</td>
           </tr>
 
           <tr className="klase">
-            <td>IT 303</td>
-            <td>3C</td>
-            <td>Information Assurance and Security 2</td>
+            <td>IT 303A</td>
+            <td>3A</td>
+            <td>Capstone Project and Research 1</td>
             <td>Monday</td>
-            <td>1:00PM - 4:00PM</td>
+            <td>5:30 PM - 8:30 PM</td>
             <td>IT Room 5</td>
-            <td>PERANTE, WILFERD JUDE A.</td>
+            <td>MORPOS, JOSEPH JAYMEL S.</td>
           </tr>
 
           <tr className="klase">
             <td>IT 303</td>
-            <td>3C</td>
+            <td>3B</td>
             <td>Information Assurance and Security 2 <br /> <strong>(Lab Schedule)</strong></td>
             <td>Tuesday</td>
-            <td>9:00AM - 12:00NN</td>
-            <td>IT Room 3</td>
-            <td>PERANTE, WILFERD JUDE A.</td>
+            <td>1:00 PM - 4:00 PM</td>
+            <td>IT Room 2</td>
+            <td>BERTULFO, EDWARD B.</td>
           </tr>
 
           <tr className="klase">
             <td>IT 303</td>
-            <td>3C</td>
+            <td>3B</td>
             <td>Information Assurance and Security 2 <br /> <strong>(Lab Schedule)</strong></td>
             <td>Wednesday</td>
-            <td>9:00AM - 12:00NN</td>
-            <td>IT Room 3</td>
-            <td>PERANTE, WILFERD JUDE A.</td>
+            <td>1:00 PM - 4:00 PM</td>
+            <td>IT Room 2</td>
+            <td>BERTULFO, EDWARD B.</td>
           </tr>
 
           <tr className="klase">
             <td>IT 303</td>
-            <td>3C</td>
+            <td>3B</td>
             <td>Information Assurance and Security 2</td>
             <td>Wednesday</td>
-            <td>1:00PM - 4:00PM</td>
+            <td>5:30 PM - 8:30 PM</td>
+            <td>IT Room 4</td>
+            <td>BERTULFO, EDWARD B.</td>
+          </tr>
+
+          <tr className="klase">
+            <td>IT 303A</td>
+            <td>3A</td>
+            <td>Capstone Project and Research 1</td>
+            <td>Wednesday</td>
+            <td>5:30 PM - 8:30 PM</td>
             <td>IT Room 5</td>
-            <td>PERANTE, WILFERD JUDE A.</td>
+            <td>MORPOS, JOSEPH JAYMEL S.</td>
           </tr>
 
           <tr>
@@ -117,14 +127,24 @@ function Schedule() {
             <td className="rest_day"><b>REST DAY</b></td>
           </tr>
 
-          <tr>
-            <td className="rest_day"><b>SATURDAY</b></td>
-            <td className="rest_day"><b>REST DAY</b></td>
-            <td className="rest_day"><b>REST DAY</b></td>
-            <td className="rest_day"><b>REST DAY</b></td>
-            <td className="rest_day"><b>REST DAY</b></td>
-            <td className="rest_day"><b>REST DAY</b></td>
-            <td className="rest_day"><b>REST DAY</b></td>
+          <tr className="klase">
+            <td>IT 303A</td>
+            <td>3A</td>
+            <td>Capstone Project and Research 1 <br /> <strong>(Lab Schedule)</strong></td>
+            <td>Saturday</td>
+            <td>8:00 AM - 12:00 NN</td>
+            <td>IT Room 2</td>
+            <td>MORPOS, JOSEPH JAYMEL S.</td>
+          </tr>
+
+          <tr className="klase">
+            <td>IT 303A</td>
+            <td>3A</td>
+            <td>Capstone Project and Research 1 <br /> <strong>(Lab Schedule)</strong></td>
+            <td>Saturday</td>
+            <td>1:00 PM - 6:00 PM</td>
+            <td>IT Room 2</td>
+            <td>MORPOS, JOSEPH JAYMEL S.</td>
           </tr>
 
           <tr className="rest_day">
