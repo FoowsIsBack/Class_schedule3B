@@ -28,7 +28,7 @@ function Schedule() {
           </tr>
             
           <tr>
-            <th className="status">Enrollment Status: <span className="enrolled">✅ Officially Enrolled</span></th>
+            <th className="status">Enrollment Status: <span className="enrolled">✅ Processing</span></th>
             <th className="status2"></th>
             <th className="status2"></th>
             <th className="status2"></th>
