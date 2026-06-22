@@ -48,6 +48,16 @@ function Schedule() {
           </tr>
 
           <tr className="klase">
+            <td>IT 303A</td>
+            <td>3A</td>
+            <td>Capstone Project and Research 1</td>
+            <td>Monday</td>
+            <td>9:00 AM - 12:00 NN</td>
+            <td>Online Class</td>
+            <td>MORPOS, JOSEPH JAYMEL S.</td>
+          </tr>
+
+          <tr className="klase">
             <td>IT 303</td>
             <td>3B</td>
             <td>Information Assurance and Security 2 <br /> <strong>(Lab Schedule)</strong></td>
@@ -57,17 +67,7 @@ function Schedule() {
             <td>BERTULFO, EDWARD B.</td>
           </tr>
 
-          <tr className="klase">
-            <td>IT 303A</td>
-            <td>3A</td>
-            <td>Capstone Project and Research 1</td>
-            <td>Monday</td>
-            <td>5:30 PM - 8:30 PM</td>
-            <td>IT Room 5</td>
-            <td>MORPOS, JOSEPH JAYMEL S.</td>
-          </tr>
-
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 303</td>
             <td>3B</td>
             <td>Information Assurance and Security 2 <br /> <strong>(Lab Schedule)</strong></td>
@@ -77,7 +77,7 @@ function Schedule() {
             <td>BERTULFO, EDWARD B.</td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 303</td>
             <td>3B</td>
             <td>Information Assurance and Security 2 <br /> <strong>(Lab Schedule)</strong></td>
@@ -87,7 +87,7 @@ function Schedule() {
             <td>BERTULFO, EDWARD B.</td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 303</td>
             <td>3B</td>
             <td>Information Assurance and Security 2</td>
@@ -97,7 +97,7 @@ function Schedule() {
             <td>BERTULFO, EDWARD B.</td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 303A</td>
             <td>3A</td>
             <td>Capstone Project and Research 1</td>
@@ -127,7 +127,7 @@ function Schedule() {
             <td className="rest_day"><b>REST DAY</b></td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 303A</td>
             <td>3A</td>
             <td>Capstone Project and Research 1 <br /> <strong>(Lab Schedule)</strong></td>
@@ -137,7 +137,7 @@ function Schedule() {
             <td>MORPOS, JOSEPH JAYMEL S.</td>
           </tr>
 
-          <tr className="klase">
+          <tr className="finish_sub">
             <td>IT 303A</td>
             <td>3A</td>
             <td>Capstone Project and Research 1 <br /> <strong>(Lab Schedule)</strong></td>
