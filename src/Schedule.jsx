@@ -63,7 +63,7 @@ function Schedule() {
             <td>Information Assurance and Security 2 <br /> <strong>(Lab Schedule)</strong></td>
             <td>Monday</td>
             <td>1:00 PM - 4:00 PM</td>
-            <td>IT Room 2</td>
+            <td>IT Room 1</td>
             <td>BERTULFO, EDWARD B.</td>
           </tr>
 
